@@ -1,11 +1,8 @@
-size(500,500);
-  //size of the window
+size(500,500); //size of the window
   
-  background(150,100,220);
-  //color of the window
+  background(150,100,220); //color window
   
-  strokeWeight(4);
-  //the thickness of the line
+  strokeWeight(4); //line thickness
   
   
   
